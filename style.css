@@ -7,8 +7,8 @@ body {
   align-items: center;
   background: rgb(131,58,180);
   background-image: url("https://gateway.pinata.cloud/ipfs/QmZLWxBqGbZFQsrpNgygNqT2w93MUWn7SwnwpoJMj8gscw");
-  color: white;
-  height: 75%;
+  color: black;
+  height: 50%;
 }
 .error {
   text-align: left;
@@ -38,7 +38,7 @@ body {
 }
 button {
   background: rgba(0,0,0,0.8);
-  color: white;
+  color: black;
   padding: 10px;
   border: none;
 }
@@ -62,18 +62,18 @@ h1 {
   letter-spacing: -1px;
 }
 h1 a {
-  color: white;
+  color: black;
 }
 .invite {
   overflow-wrap: break-word;
   word-wrap: break-word;
   word-break: break-word;
   text-align: left;
-  color: white;
+  color: black;
   font-size: 16px;
 }
 .invites a {
-  color: white;
+  color: black;
 }
 .invites {
 }
@@ -122,7 +122,7 @@ tr img {
   height: 20px;
 }
 tr a {
-  color: white;
+  color: black;
 }
 .token {
   background: rgba(0,0,0,0.3);
