@@ -9,11 +9,14 @@ body {
   background-image: url("https://gateway.pinata.cloud/ipfs/QmZLWxBqGbZFQsrpNgygNqT2w93MUWn7SwnwpoJMj8gscw");
   color: black;
   height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .error {
   text-align: left;
   max-width: 2039px;
-  padding: 0 10px; 
+  padding: 0 10px; :
   box-sizing: border-box;
   font-size: 14px;
   white-space: pre-wrap;
