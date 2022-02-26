@@ -78,6 +78,7 @@ h1 a {
 }
 .invites a {
   color: black;
+  background: rgba(255,255,255,0.5); 
 }
 .invites {
 }
@@ -91,6 +92,7 @@ table {
 td, th {
   padding: 5px;
   font-size: 14px;
+  background: rgba(255,255,255,0.5); 
 }
 th {
   border-bottom: 1px solid rgba(255,255,255,0.8);
@@ -118,7 +120,7 @@ tr {
   padding: 20px;
   box-sizing: border-box;
   font-size: 15px;
-  background: rgba(255,255,255,0.9);
+  background: rgba(255,255,255,0.8);
   margin-top: 20px;
   border-radius: 50px;
 }
@@ -129,7 +131,7 @@ tr a {
   color: black;
 }
 .token {
-  background: rgba(255,255,255,0.7);
+  background: rgba(255,255,255,0.8);
   padding: 5px;
   text-align: center;
   font-size: 12px;
