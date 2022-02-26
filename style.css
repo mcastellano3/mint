@@ -88,6 +88,7 @@ table {
   overflow-wrap: break-word;
   display: table !important;
   margin-top: 10px;
+  background: rgba(255,255,255,0.5); 
 }
 td, th {
   padding: 5px;
@@ -101,6 +102,7 @@ th {
 tr {
   width: 100%;
   border-bottom: 1px solid white;
+  background: rgba(255,255,255,0.5); 
 }
 .btn {
   background: rgba(255,255,255,0.5); 
@@ -112,6 +114,7 @@ tr {
   width: 100%;
   box-sizing: border-box;
   padding: 10px;
+  background: rgba(255,255,255,0.5); 
 }
 .hidden {
   display: none !important;
@@ -129,6 +132,7 @@ tr img {
 }
 tr a {
   color: black;
+  background: rgba(255,255,255,0.5); 
 }
 .token {
   background: rgba(255,255,255,0.8);
