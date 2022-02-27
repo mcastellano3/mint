@@ -118,7 +118,7 @@ tr {
   width: 100%;
   box-sizing: border-box;
   padding: 10px;
-  background: rgba(128,128,128,0.8); 
+  background: rgba(128,128,128,1); 
 }
 .hidden {
   display: none !important;
