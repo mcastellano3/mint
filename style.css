@@ -4,7 +4,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: flex-end;
+  align-items: stretch;
   background-color: lightblue;
   background-image: url("https://gateway.pinata.cloud/ipfs/QmZLWxBqGbZFQsrpNgygNqT2w93MUWn7SwnwpoJMj8gscw");
   background-repeat: no-repeat;
