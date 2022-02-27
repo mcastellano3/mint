@@ -9,6 +9,7 @@
 <script src="https://unpkg.com/web3modal@1.9.5/dist/index.js"></script>
 <script src="connect.js"></script>
 <script id="template" type="text/x-handlebars-template">
+  <img src="{{image}}">
   <h1>{{title}}</h1>
   {{#if table}}
   <table class='invites'>
@@ -41,7 +42,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     const invites = await f0.myInvites()
     document.querySelector(".box").innerHTML = template({
       title: `lace up your chucks and fire up the dial-up connection - welcome to midlife`,
-      image: placeholder.converted.image,
+      image: '',
       table: (Object.keys(invites).length > 0),
       items: Object.keys(invites).map((key, index) => {
         return {
