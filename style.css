@@ -9,7 +9,7 @@ body {
   background-image: url("https://gateway.pinata.cloud/ipfs/QmZLWxBqGbZFQsrpNgygNqT2w93MUWn7SwnwpoJMj8gscw");
   background-repeat: no-repeat;
   background-size: 85% 50%;
-  background-position: center;
+  background-position: top center;
   color: black;
   height: 100%;
   border-bottom: 1px solid rgba(0,0,0,0.8);
