@@ -59,11 +59,11 @@ a {
   font-weight: bold;
 }
 h1 {
+  background: rgba(255,255,255,0.8); 
   margin: 0;
   font-size: 30px;
   box-sizing: border-box;
   letter-spacing: -1px;
-  background: rgba(255,255,255,0.8); 
 }
 h1 a {
   background: rgba(255,255,255,0.8); 
@@ -79,8 +79,8 @@ h1 a {
   font-size: 16px;
 }
 .invites a {
+  background: rgba(255,255,255,0.8); 
   color: black;
-  background: rgba(255,255,255,0.5); 
 }
 .invites {
 }
